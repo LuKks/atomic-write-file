@@ -1,0 +1,24 @@
+{
+  "name": "atomic-write-file",
+  "version": "0.0.0",
+  "description": "Atomic file writing by creating a temporary file and renaming it",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard && brittle test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lukks/atomic-write-file.git"
+  },
+  "author": "Lucas Barrena (LuKks)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lukks/atomic-write-file/issues"
+  },
+  "homepage": "https://github.com/lukks/atomic-write-file#readme",
+  "devDependencies": {
+    "brittle": "^3.3.2",
+    "standard": "^17.1.0",
+    "test-tmp": "^1.2.0"
+  }
+}
