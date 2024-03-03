@@ -1,6 +1,6 @@
 {
   "name": "atomic-write-file",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Atomic file writing by creating a temporary file and renaming it",
   "main": "index.js",
   "scripts": {
